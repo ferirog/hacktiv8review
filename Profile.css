@@ -1,0 +1,17 @@
+body {
+  margin: 8px;
+}
+
+h1{
+    font-style: italic;
+}
+
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#landing-image{
+    background-image: url(anime-minimalism-4k-4e.jpg);
+    background-size: 1%;
+}
